@@ -1,0 +1,41 @@
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe.config
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.exe
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\CNPM nhóm 1.pdb
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp BUS.pdb
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp DAL.pdb
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp Entites.pdb
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DangNhap.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMHangHoa.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMKhachHang.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.DMNhaCungCap.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Form1.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Nhập.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Phiếu_Xuất.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.Properties.Resources.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM_nhóm_1.QuanLyTaiKhoan.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.csproj.CopyComplete
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.exe
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\CNPM nhóm 1.pdb
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.DangNhap.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.DMHangHoa.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.DMKhachHang.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.DMNhaCungCap.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.Form1.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.Phiếu_Nhập.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.Phiếu_Xuất.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.Properties.Resources.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\TTN_QLKhoHang.QuanLyTaiKhoan.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.DangNhap.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.DMHangHoa.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.DMKhachHang.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.DMNhaCungCap.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.Form1.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.Phiếu_Nhập.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.Phiếu_Xuất.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.Properties.Resources.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.QuanLyTaiKhoan.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\CNPM nhóm 1\QLKhoHang\obj\Debug\TTN_QLKhoHang.csproj.CoreCompileInputs.cache

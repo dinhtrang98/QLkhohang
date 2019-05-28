@@ -1,0 +1,22 @@
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\QLKhoHang.exe.config
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\QLKhoHang.exe
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\QLKhoHang.pdb
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp BUS.pdb
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp DAL.pdb
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\bin\Debug\Lớp Entites.pdb
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.DangNhap.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.DMHangHoa.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.DMKhachHang.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.DMNhaCungCap.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.Form1.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.Phiếu_Nhập.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.Phiếu_Xuất.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.Properties.Resources.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.QuanLyTaiKhoan.resources
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.csproj.CopyComplete
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.exe
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.pdb
+C:\Users\Admin\Downloads\CNPM nhóm 1\CNPM nhóm 1\obj\Debug\QLKhoHang.GiaoDienChinh.resources
